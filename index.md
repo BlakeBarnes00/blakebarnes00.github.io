@@ -1,4 +1,4 @@
-# About Me
+## About Me
 I was born in Kingsport, Tennessee on January 03, 2000. I moved to South Carolina around the age of one with my father and mother, Ellis Roy Barnes Jr. and Katrina Mae Barnes. I lived in South Carolina for the majority of my life, occasionally our family would move back to Tennessee for small portions at a time, such as in primary school for one year of school.
 
 My first year I went back to Tennessee I stayed with my stepmother's father and stepmother. This is where I got my start with computers and games practically. (I had owned a Nintendo64 as a kid, along with a few other old consoles, but this was where I got into PC gaming.) When I was there for a week, I learned from my older brother about flash games, small and simple games from websites that he would show me. I stayed glued to that computer for a week straight, now looking back, I kind of regret it because that was selfish of me to do so. Nevertheless, I knew from that moment, that I really like computers.
