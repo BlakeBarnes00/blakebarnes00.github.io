@@ -1,37 +1,8 @@
-## Welcome to GitHub Pages
+# About Me
+I was born in Kingsport, Tennessee on January 03, 2000. I moved to South Carolina around the age of one with my father and mother, Ellis Roy Barnes Jr. and Katrina Mae Barnes. I lived in South Carolina for the majority of my life, occasionally our family would move back to Tennessee for small portions at a time, such as in primary school for one year of school.
 
-You can use the [editor on GitHub](https://github.com/BlakeBarnes00/blakebarnes00.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+My first year I went back to Tennessee I stayed with my stepmother's father and stepmother. This is where I got my start with computers and games practically. (I had owned a Nintendo64 as a kid, along with a few other old consoles, but this was where I got into PC gaming.) When I was there for a week, I learned from my older brother about flash games, small and simple games from websites that he would show me. I stayed glued to that computer for a week straight, now looking back, I kind of regret it because that was selfish of me to do so. Nevertheless, I knew from that moment, that I really like computers.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Around the start of the 7th grade my friend at the time, Wesley Horonzy, had got me interested in the game Minecraft, which of course got me into making mods. I didn't write my own mods for the game, rather I used a mod called ComputerCraft which embedded Lua into these little computers called turtles. Using Lua you would make these turtles do things like mine and build. After trying to learn Lua for a while to make these turtles do things, I thought it would be awesome to try using Lua outside of Minecraft...
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BlakeBarnes00/blakebarnes00.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+I picked up a 2D engine called LOVE2D. It is a game engine written in C++, but the catch is, Lua is is what you would make your games in. This was around summer, my first summer in Tennesee with my grandpa, Ellis Roy Barnes Sr.. I remember showing him one of my first "games" that I literally copied all the source code from the LOVE2D physics wiki. It was of a ball that could bounce and it would hit this little gray block.
